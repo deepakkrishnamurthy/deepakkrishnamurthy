@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepakkrishnamurthy
 - 👀 I’m interested in understanding the living world through interdisciplinary science and new technologies
-- 🌱 I’m currently learning how to play with molecules and cells
+- 🌱 I’m currently developing high-thoughput tools to apply forces on cells
 - 📫 How to reach me: deepakkrishnamurthy.com
 
 <!---
